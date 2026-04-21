@@ -1,0 +1,9 @@
+{
+  "prompt": "Implement a \"Offline Retail Checkout and Entrepreneurship Project Incubation Operation Middle Platform API\". The system provides unified resource domain capabilities for cashiers, store managers, project applicants, reviewers, and operation administrators: Product and POS Retrieval, Order Domain, Payment, After-Sales Domain, Project Lifecycle Domain, and Notification Center. The backend uses FastAPI, SQLAlchemy, and PostgreSQL for single-machine Docker offline operation, with constraints on authentication security, order/payment/return rules, attachment validation, field-level encryption, immutable audit logs, feature library computations, operational analytics, and configuration rollout/rollback.",
+  "project_type": "backend",
+  "frontend_language": "None",
+  "backend_language": "Python",
+  "frontend_framework": "None",
+  "backend_framework": "FastAPI",
+  "database": "PostgreSQL"
+}
